@@ -44,7 +44,7 @@ implementation
 
    level:=loadsprite('sprites\level.tga');
 
-   pedoship.load('pedoship');
+   pedoship.load('crab');
    antipedo.load('antipedo');
    misslespr.load('missle');
    plazmaspr.load('plazma\pl1');
